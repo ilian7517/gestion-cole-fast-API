@@ -1,0 +1,10 @@
+{
+    "classes": [
+        {
+            "id": 1,
+            "name": "Classe A",
+            "students": []
+        }
+    ],
+    "students": []
+}
